@@ -1,5 +1,6 @@
-﻿# Robottino ANSA News Service
+https://excalidraw.com/#room=2fbd020dbf80537711b9,ZwDBkKT-KTXQ2Ow0mSl3CA
 
+ # Robottino ANSA News Service
 Microservizio NodeJS (Express) con bot Playwright che estrae le ultime news da ANSA.
 
 ## Requisiti
