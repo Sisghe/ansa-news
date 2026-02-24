@@ -1,0 +1,22 @@
+﻿{
+  "name": "robottino-ansa-news",
+  "version": "1.0.0",
+  "description": "Microservizio NodeJS + Playwright per estrarre ultime news ANSA",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "playwright",
+    "ansa",
+    "news"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2",
+    "playwright": "^1.52.0"
+  }
+}
